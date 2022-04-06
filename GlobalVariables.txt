@@ -1,2 +1,2 @@
 *** Settings ***
-Resource          ../SETTINGS/AllResource.txt
+Resource          ../SETTINGS/AllResource1.txt
