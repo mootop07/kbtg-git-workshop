@@ -1,4 +1,3 @@
 *** Settings ***
-Resource          ../SETTINGS/AllResource55.txt
-Library 	  appium library
+Resource          ../SETTINGS/AllResource.txt
 Library           SeleniumLibrary
